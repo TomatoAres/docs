@@ -85,7 +85,7 @@ TKEStack还可以另外**新建独立集群**以及**导入已有集群**实现*
 
 1. 首先需要在 TKE 控制台所要导入的集群“基本信息”页里开启内/外网访问
 
-   ![image-20200930154323734](https://github.com/ruyingzhe/docs/tree/7f24a45c0f07eac673325093def1526590391c03/docs/images/image-20200930154323734.png)
+   ![&#x5BFC;&#x5165;&#x96C6;&#x7FA4;](../../images/image-20200930154323734.png)
 
 2. **APIServer 地址**：即上图中的访问地址，也可以根据上图中 kubeconfig 文件里的“server”字段内容填写。
 3. **CertFile**：集群证书，kubeconfig 中“certificate-authority-data”字段内容。
